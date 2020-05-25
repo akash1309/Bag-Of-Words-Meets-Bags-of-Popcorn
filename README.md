@@ -1,2 +1,2 @@
 # Bag-Of-Word-Meets-Bags-of-Popcorn
-Sentiment Analysis Using Google's Word2Vec ( for movie reviews )
+Sentiment Analysis for Movie's Review.
